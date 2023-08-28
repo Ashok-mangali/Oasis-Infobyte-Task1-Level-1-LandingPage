@@ -1,0 +1,205 @@
+.logo-image {
+    height: 15vh;
+}
+
+#navItem1 {
+    color:black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+#navItem2 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+#navItem3 {
+    color:black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+
+#navItem4 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+#navItem1:hover{
+    color: red;
+    transform: scale(1.1);
+
+}
+#navItem2:hover{
+    color: red;
+    transform: scale(1.1);
+
+}
+#navItem3:hover{
+    color: red;
+    transform: scale(1.1);
+
+}
+#navItem4:hover{
+    color: red;
+    transform: scale(1.1);
+
+}
+
+.banner-section-bg-container {
+    background-image: url("Food.jpg");
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.banner-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+.banner-caption {
+    color:black;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color:black;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.custom-button:hover{
+    background-color:#d0b200;
+}
+
+.custom-outline-button {
+    color:black;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.custom-outline-button:hover{
+    background-color: #d0b200;
+}
+.menu-section {
+    background-color: white;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.menu-item-image:hover{
+    border-radius: 16px;
+    
+}
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+.image:hover img{
+    transform: scale(1.1);
+
+}
+.delivery-and-payment-section {
+    background-color: white;
+}
+
+.payment-section-img {
+    width: 400px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38pxpx;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.thanking-heading{
+    font-size: 30px;
+    color:#183b56;
+}
+
+.follow-us-section {
+    background-color: white;
+    align-items: center;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+.copyright {
+    width: 100%;
+    text-align: center;
+    padding: 25px 0;
+    background: #262626;
+    font-weight: 300;
+    margin-top: 20px;
+    color: white;
+}
