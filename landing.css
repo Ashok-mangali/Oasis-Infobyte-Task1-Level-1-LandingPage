@@ -160,6 +160,9 @@
     height: 50px;
     margin-right: 28px;
 }
+.payment-card-img:hover{
+    transform: scale(1.1);
+}
 .thanking-heading{
     font-size: 30px;
     color:#183b56;
